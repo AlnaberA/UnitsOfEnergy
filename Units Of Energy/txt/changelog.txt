@@ -1,0 +1,75 @@
+Credits: 
+Project Lead: 
+Alaa Al Naber
+
+Engineers: 
+Abdalla Sadoon
+Nader Hachem
+
+Developers: 
+Daoud Sleiman												
+
+Librarys used:
+javax.swing.JFrame;
+javax.swing.JButton;
+javax.swing.JLabel;
+javax.swing.JTextField;
+javax.swing.JMenuBar;
+javax.swing.JMenu;
+javax.swing.JMenuItem;
+javax.swing.JOptionPane;
+javax.swing.ImageIcon;
+javax.swing.JPanel;
+java.awt.event.ActionListener;
+java.awt.event.ActionEvent;
+java.awt.Label;
+java.awt.Toolkit;
+java.awt.Color;
+java.awt.SystemColor;
+java.awt.EventQueue;
+java.awt.Image;
+java.awt.event.MouseAdapter;
+java.awt.event.MouseEvent;
+java.text.DecimalFormat;
+java.text.NumberFormat;
+------------------------------------------------------------------------						
+ Current version:   VERSION_NUMBER 											  		 	
+ Change log:																				 	
+ Created on Nov 18, 2016 For use by DTE ENERGY Personal only. 								
+---------------------------PRE APLHA BUILD------------------------------												
+ Update version 0.0.01 																		
+ Added Ohm's Law calculator for voltage, current, resistance 									
+ Added usable features such as buttons and text fields for user input 						
+------------------------------------------------------------------------
+  Update version 0.0.10 																	
+ Added usable menu with information of the software developer									
+ Added images for more user friendly interface												
+-----------------------------------------------------------------------
+  Update version 0.0.11																	
+ Usable ohm's law calculator volts,current,resistance											
+ Clear field button added for ohm's law calculator											
+ Added image of ohm's law wheel for easy formula viewing to user								
+ Text fields now display result instead of just outputing them to console windows				
+-----------------------------------------------------------------------
+  Update version 0.0.12																	
+ Ohm's Law Calculator Complete, some code redone and comments added.							
+-----------------------------------------------------------------------
+  Update version 0.0.20																	
+ Added conversions button-> used to convert temperature										
+ Temperature conversion: Fahrenheit (F)	F->(F - 32) * 5/9 & Celsius (C)->(C * 9/5)  32	C 	
+------------------------------------------------------------------------
+  Update version 0.0.21	
+  Temperature conversion: Kelvin
+  Conversions (added): Microamps, Milliamps, Amps
+  Menu Item About
+------------------------------------------------------------------------
+  Update version 0.0.22
+  Added system information button.
+  Added retrieval of system information:
+  Information about JVM
+  Information about Operating System
+  Information about Computer Architecture
+  Information about Network
+  
+  
+  
