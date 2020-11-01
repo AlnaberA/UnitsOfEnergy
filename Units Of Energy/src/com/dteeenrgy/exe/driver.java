@@ -1,47 +1,6 @@
 package com.dteeenrgy.exe;
 /********************************************
  * AUTHOR: Alaa Al Naber
- * Created For: DTE ENERGY
- *
-Update Log:
-
-*@author 
-UPADTED BY: User--u32785
-UPADTED ON: Date--Nov 18, 2016
-UPADTED AT: Time--8:47:31 AM
-*@author 
-UPADTED BY: User--u32785
-UPADTED ON: Date--Dec 27, 2016
-UPADTED AT: Time--2:39:42 PM
-@author 
-UPADTED BY: User--u32785
-UPADTED ON: Date--Jan 3, 2017
-UPADTED AT: Time--10:38:22 AM
- @author 
-UPADTED BY: User--u32785
-UPADTED ON: Date--Jan 4, 2017
-UPADTED AT: Time--10:44:45 AM
-@author 
-UPADTED BY: User--u32785
-UPADTED ON: Date--Mar 13, 2017
-UPADTED AT: Time--1:08:49 PM
-@author 
-UPADTED BY: User--u32785
-UPADTED ON: Date--Mar 17, 2017
-UPADTED AT: Time--3:27:35 PM
-@author 
-UPADTED BY: User--u32785
-UPADTED ON: Date--Apr 18, 2017
-UPADTED AT: Time--8:34:09 AM
-@author 
-UPADTED BY: User--u32785
-UPADTED ON: Date--Apr 20, 2017
-UPADTED AT: Time--12:01:34 PM
-@author 
-UPADTED BY: User--u32785
-UPADTED ON: Date--Apr 27, 2017
-UPADTED AT: Time--10:50:25 AM
- *
  ********************************************/
 
 //Imported Libraries
